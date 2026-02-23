@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Apakah status lafadz \"\"بَعْدُ\"\"?",
+    "option_A": "Mabni dlommah",
+    "option_B": "Rofa’",
+    "option_C": "Mabni fathah",
+    "option_D": "Mabni sukun",
+    "option_E": "Jāzim",
+    "answer_index": "0",
+    "explanation": "Karena mudlof ilah dibuang dan diniati maknanya."
+  },
+  {
+    "question": "Apakah shighat dari \"\"وُجُوب\"\"?",
+    "option_A": "Dlomir",
+    "option_B": "Isim mudhāri’",
+    "option_C": "Isim fa‘il",
+    "option_D": "Masdar",
+    "option_E": "Fi‘l Māḍī",
+    "answer_index": "3",
+    "explanation": "Tashrifannya yaitu وجب يجب وجوبا وموجبا فهو واجب"
+  },
+  {
+    "question": "Bagaimana i‘rab lafadz \"\"عِشْرِيْن\"\"?",
+    "option_A": "Rofa’",
+    "option_B": "Jer",
+    "option_C": "Nashab",
+    "option_D": "Jazem",
+    "option_E": "Mabnī",
+    "answer_index": "2",
+    "explanation": "Di‘āmili oleh ‘adad (عِشْرِينَ)."
+  },
+  {
+    "question": "Lafadz \"\"عِشْرِيْن\"\" termasuk jenis apa?",
+    "option_A": "Jamak mudzakkar salim",
+    "option_B": "Mulhaq tatsniyah",
+    "option_C": "Mulhaq jamak mudzakkar",
+    "option_D": "Isim mufrad",
+    "option_E": "Jam‘ Taksīr",
+    "answer_index": "2",
+    "explanation": "Termasuk mulḥaq jam‘ mudzakkar sālim, lafadz yang bukan jamak mudzakkar salim namun i'robnya sama"
+  },
+  {
+    "question": "Mengapa huruf wawu pada \"\"يُوجِبُ\"\" dibuang?",
+    "option_A": "Karena di madli",
+    "option_B": "Di antara fathah dan kasrah",
+    "option_C": "Sejenis huruf setelahnya",
+    "option_D": "Bertemu dua sukun",
+    "option_E": "Karena Idghām",
+    "answer_index": "1",
+    "explanation": "Karena Wāwu jatuh di antara ('adawaiha) dua unsur yang beda yaitu fathah dan kasrah."
+  },
+  {
+    "question": "Apa definisi wajib menurut fiqh?",
+    "option_A": "Diberi pahala jika dikerjakan dan dihukum jika ditinggalkan",
+    "option_B": "Dihukum jika ditinggalkan",
+    "option_C": "Pahala jika dikerjakan dan pahala jika ditinggalkan",
+    "option_D": "Tidak berpahala dan tidak berdosa",
+    "option_E": "Tidak Ada Imbas",
+    "answer_index": "0",
+    "explanation": "Mā yutsābu ‘alā fi‘lihi wa yu‘āqabu ‘alā tarkihi."
+  },
+  {
+    "question": "Apakah status lafadz \"\"صِفَة\"\"?",
+    "option_A": "Tamyiz",
+    "option_B": "Hal",
+    "option_C": "Maf‘ul ma‘ah",
+    "option_D": "Istitsna’",
+    "option_E": "Mubtada’",
+    "answer_index": "0",
+    "explanation": "Sebagai tamyīz manṣūb, karena menjelaskan sesuatu yang masih samar"
+  },
+  {
+    "question": "Siapakah yang meng‘amili \"\"صِفَة\"\"?",
+    "option_A": "Amil ma’nawi",
+    "option_B": "مِنْ",
+    "option_C": "وَاجِبٌ",
+    "option_D": "عِشْرِينَ",
+    "option_E": "فَاعْلَمْ",
+    "answer_index": "3",
+    "explanation": "Di‘āmili oleh ‘adad (عِشْرِينَ)."
+  },
+  {
+    "question": "Apakah \"\"صِفَة\"\" termasuk tamyīz?",
+    "option_A": "Nisbat",
+    "option_B": "Dzat",
+    "option_C": "Muntaqilah",
+    "option_D": "Musytaq",
+    "option_E": "Mawhūmah",
+    "answer_index": "1",
+    "explanation": "Termasuk tamyīz dzāt, karena menjelaskan dzat yang masih samar yaiut عشرين"
+  },
+  {
+    "question": "Siapakah yang menashabkan tamyīz nisbah?",
+    "option_A": "Amil ma’nawi",
+    "option_B": "Fa’il nisbat",
+    "option_C": "Fi‘il / syibh fi‘il",
+    "option_D": "Nisbatnya",
+    "option_E": "Khabar",
+    "answer_index": "0",
+    "explanation": "Yang mengamili tamyiz nisbat adalah amil yang berada dinisbat itu ."
+  },
+  {
+    "question": "Siapakah yang merafa‘kan lafadz \"\"قَدِيْم\"\"?",
+    "option_A": "مَوْجُودٌ",
+    "option_B": "قَدِيمٌ",
+    "option_C": "Lَفْظُ الْجَلَالَةِ",
+    "option_D": "بَاقٍ",
+    "option_E": "مُخَالِفٌ",
+    "answer_index": "2",
+    "explanation": "Karena menjadi khabar kedua bagi Lafẓ al-Jalālah."
+  },
+  {
+    "question": "Apa bentuk jamak taksir dari \"\"قَدِيم\"\"?",
+    "option_A": "قَدَمٌ",
+    "option_B": "قُدُومٌ",
+    "option_C": "أَقْدَامٌ",
+    "option_D": "قُدَمَاءُ",
+    "option_E": "قُدَّامَ",
+    "answer_index": "3",
+    "explanation": "Bentuk jamaknya قُدَمَاءُ, mengikuti wazan فعلاء, contoh كريم كرماء بخيل بخلاء"
+  },
+  {
+    "question": "Huruf لِ pada \"\"لِلْخَلْقِ\"\" berta‘alluq kepada apa?",
+    "option_A": "مُخَالِفٌ",
+    "option_B": "بِالْإِطْلَاقِ",
+    "option_C": "Dikira-kirakan",
+    "option_D": "Tidak ada",
+    "option_E": "بَاقِي",
+    "answer_index": "0",
+    "explanation": "Ta‘alluq huruf jer harus kepada fi'il atau semakna fi'in yakni isim shifat"
+  },
+  {
+    "question": "Apakah shighat \"\"إِطْلَاق\"\"?",
+    "option_A": "Isim alat",
+    "option_B": "Masdar",
+    "option_C": "Isim mudhāri’",
+    "option_D": "Dhamir",
+    "option_E": "Fi‘l Māḍī",
+    "answer_index": "1",
+    "explanation": "Tashrifannya yaitu أطلق يطلق إطلاقا ومطلقا فهو مطلق وذاك مطلق"
+  },
+  {
+    "question": "Apa makna wazan َفَاعَل?",
+    "option_A": "Tholab",
+    "option_B": "Musyarakah",
+    "option_C": "Dukhul fi syai’",
+    "option_D": "Tahqiq",
+    "option_E": "Ta‘diyah",
+    "answer_index": "1",
+    "explanation": "Musyarakah artinya sebuah fi'il saling dikerjakan oleh fail dan maf'ul"
+  },
+  {
+    "question": "Lafadz \"\"خَالَفَ\"\" termasuk fi‘il apa?",
+    "option_A": "Mukhayyar",
+    "option_B": "La wala",
+    "option_C": "Mutasharrif",
+    "option_D": "Jamid",
+    "option_E": "Muntaqilah",
+    "answer_index": "2",
+    "explanation": "Karena bisa memiliki bentuk lain yakni bisa ditashrif"
+  },
+  {
+    "question": "Apa bentuk jamak dari \"\"غَنِيّ\"\"?",
+    "option_A": "أَغْنِيَاءُ",
+    "option_B": "غِنْيَةٌ",
+    "option_C": "أَغَانِي",
+    "option_D": "غَنَانِي",
+    "option_E": "إِغْنَاءٌ",
+    "answer_index": "0",
+    "explanation": "Jamaknya أَغْنِيَاءُ. Mengikuti wazan أَفْعِلَاء. Contoh ولي أولياء سخي أسخياء"
+  },
+  {
+    "question": "Jenis mad apakah pada lafadz \"\"قَائِم\"\"?",
+    "option_A": "Wajib muttashil",
+    "option_B": "Jaiz munfashil",
+    "option_C": "‘Aridh",
+    "option_D": "Thabi‘i",
+    "option_E": "Muthaqqal",
+    "answer_index": "3",
+    "explanation": "Termasuk mad 2ajib muttashil karena ada hamzah jatuh setelah mad thab'iy"
+  },
+  {
+    "question": "Mengapa huruf terakhir pada \"\"قَادِرْ\"\" disukunkan?",
+    "option_A": "Amil jazem",
+    "option_B": "Shohih akhir",
+    "option_C": "Imalah",
+    "option_D": "Dlarurat sya‘ir",
+    "option_E": "Nisbah",
+    "answer_index": "3",
+    "explanation": "Karena jika ro' diharokati maka wazan syiirannya akan rusak"
+  },
+  {
+    "question": "Berapakah nilai hisab jumalī dari lafadz \"\"عَالِم\"\"?",
+    "option_A": "245",
+    "option_B": "141",
+    "option_C": "56",
+    "option_D": "701",
+    "option_E": "$457",
+    "answer_index": "1",
+    "explanation": "jumlah keseluruhanع (70) + ا (1) + ل (30) + م (40) = 141"
+  }
+]
